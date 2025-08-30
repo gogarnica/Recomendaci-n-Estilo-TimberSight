@@ -1,0 +1,7 @@
+{
+  "name": "Asistente de Estilo | TimberSight",
+  "description": "Un chatbot inteligente que analiza tu rostro usando IA para recomendarte las monturas de gafas perfectas. Toma una foto y recibe recomendaciones personalizadas de estilo, forma y color, con una prueba virtual instantánea.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
